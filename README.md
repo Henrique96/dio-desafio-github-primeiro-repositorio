@@ -18,3 +18,9 @@ Desafio de Projeto sobre Git/GitHub
 # Git Commit & Push (With Error)
 
 ![image](https://user-images.githubusercontent.com/53340131/212756821-46975fc2-873b-40ad-8253-85b99de2a348.png)
+
+------------
+
+# Git Pull & Git Status (Without Error)
+
+![image](https://user-images.githubusercontent.com/53340131/212757341-8cfc4f99-d33a-4e99-b86b-cc7deb4e5f2e.png)
